@@ -6,15 +6,12 @@
 
 ###
 
-<br clear="both">
-
-[Download link](https://drive.google.com/file/d/1LxLzz9he_24IY-3uvkyPp4pEOlIIQpQY/view?usp=drive_link)
+##  Download Link
+[Download App](https://drive.google.com/u/0/uc?id=1LxLzz9he_24IY-3uvkyPp4pEOlIIQpQY&export=download)
 
 ###
 
-<br clear="both">
-
-<h2 align="left">IMAGES</h2>
+<h2 align="left">Screenshots</h2>
 
 ###
 
@@ -78,12 +75,16 @@
 
 ###
 
-<br clear="both">
+
+## Used By
+
+This project is used by the following companies:
+
+- IPS Group Of College Gwalior
 
 <h1 align="left">License</h1>
 
-###
 
-<p align="left">This copyrighted UI design and not give permission use to as personal and commercial project</p>
+## Feedback
 
-###
+If you have any feedback, please reach out to us at prem767p@gamil.com
