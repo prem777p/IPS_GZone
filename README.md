@@ -82,8 +82,10 @@ This project is used by the following companies:
 
 - IPS Group Of College Gwalior
 
-<h1 align="left">License</h1>
 
+## License
+
+[License.md](https://github.com/prem777p/IPS_GZone/blob/main/Lisense.md)
 
 ## Feedback
 
