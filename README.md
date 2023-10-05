@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">[Download link](https://drive.google.com/file/d/1LxLzz9he_24IY-3uvkyPp4pEOlIIQpQY/view?usp=drive_link)</p>
+[Download link](https://drive.google.com/file/d/1LxLzz9he_24IY-3uvkyPp4pEOlIIQpQY/view?usp=drive_link)
 
 ###
 
