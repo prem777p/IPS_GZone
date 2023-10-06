@@ -7,7 +7,7 @@
 ###
 
 ##  Download Link
-[Download App](https://drive.google.com/u/0/uc?id=1LxLzz9he_24IY-3uvkyPp4pEOlIIQpQY&export=download)
+[Download App](https://github.com/prem777p/IPS_GZone/releases/download/Apk/IPS.GZone.apk)
 
 ###
 
