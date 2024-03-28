@@ -13,39 +13,38 @@
 
 <h2 align="left">Screenshots</h2>
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQE2Oot7bT6uQQ/profile-treasury-image-shrink_1920_1920/0/1694973701171?e=1705248000&v=beta&t=6X4ewjWy9KDZzV9H6UE5cxdKTWVEoFsyTHE0IAQDBaM"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/9977eaa0-ac45-46fb-8937-56b49b788ba9"/>
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQFExpUn0sQq2g/profile-treasury-image-shrink_1920_1920/0/1694972166398?e=1705248000&v=beta&t=QbqUkPE_U0-7J9Lm_MR8mYfhH5aXT5dpDDHkbgFJ1iI"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/92a7ebf6-068c-4234-a31d-ede5616418bc" />
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQGpza1QEgoZQA/profile-treasury-image-shrink_1920_1920/0/1694972183340?e=1705248000&v=beta&t=WIdUnfgSJrjvhnBeU_hueyl2huOWJhMihN8eFxQrJ5U" />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/fe6ca136-d8ff-4b49-8582-52ce40201730"/>
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQFOF6eqLWIdKQ/profile-treasury-image-shrink_1920_1920/0/1694973622566?e=1705248000&v=beta&t=89_R7EArFQkvTbROWPdbdibLw7ToFiNwFZgvzwjeb-Y"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/c11962af-5acd-4306-8022-830fcb0a28b10" />
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQHcbyLL3-GClQ/profile-treasury-image-shrink_1920_1920/0/1694973641016?e=1705248000&v=beta&t=KysblQ7L2hdpZ1K-PAfef8g4cwYOr1w8qL1rcweYOoQ"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/f41ed004-2af2-477a-9263-3fe8cb061107"/>
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQELYRRcGb4AYw/profile-treasury-image-shrink_1920_1920/0/1694967385378?e=1705248000&v=beta&t=Wxbg7ujCCF2XS3HYQSN10lWjHshO04ET1iO86qvCFDU"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/efc579f3-5d3c-4992-9251-d92ce7d449a8" />
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQFCjmANLyNi_Q/profile-treasury-image-shrink_1920_1920/0/1694973685839?e=1705248000&v=beta&t=8KQvbp7O_ING9-1SDKR14CaEtQZuQvzbkDjdcyMhHAo"  />
+
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/cff94715-cb55-4d59-a3ea-5bf58ae537d4"/>
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQEntdcgvCQnsQ/profile-treasury-image-shrink_1920_1920/0/1694972208967?e=1705248000&v=beta&t=dYxpBgsZJfeQbFoWqz339aKbKAD0d1YdvmqTGm7BFqM"  />
+<img align="left" height="200" src="https://github.com/prem777p/IPS_GZone/assets/113753020/b51fe9c9-efef-49a5-9cc3-411837f1dc2f" />
 
 ###
-
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D562DAQEdiazv8Oga5w/profile-treasury-image-shrink_800_800/0/1694973658939?e=1705248000&v=beta&t=TuznNvVM8FK_PIvZlh7c04O0oVd6y9Xz3qbisQzS9b8"  />
 
 <br clear="both">
 
